@@ -14,6 +14,6 @@ Adam optimizer is used to train the network. The loss function that is utilized 
 After the network is trained, the constructed FastText vector representations of the OOV words are given to the network as the noisy data and boosted embeddings are extracted from the network.
 
 
-At this stage, the generated embeddings have not supported the initial hypothesis as a noticeable improvement was not obtained. Therefore, this project is still ongoing, and we are still exploring the thoretical matters that might not have taken into consideration.
+At this stage, the generated embeddings have not supported the initial hypothesis as a noticeable improvement was not obtained. Therefore, this project is still ongoing, and we are still exploring the thoretical matters that might have not taken into consideration.
 
 For sure, any contribution or feedback is appreciated.
